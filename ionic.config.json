@@ -1,0 +1,7 @@
+{
+  "name": "vault",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
