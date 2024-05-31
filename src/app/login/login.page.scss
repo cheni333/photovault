@@ -1,0 +1,101 @@
+@font-face {
+    font-family: Poppins;
+    src: url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+}
+
+  
+  .custom-header {
+      --background: rgba(0, 0, 0, 0.1);
+      --color: white;
+    }
+  
+  .PV {
+    font-family: Poppins;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 45%;
+    font-weight: 650;
+  }
+  
+  // ion-content {
+  //     --background: url('login_bg.png') no-repeat center center / cover;
+  //   }
+  
+    // ion-content p {
+    //   font-size:  22px;
+    //   font-weight: 520;
+    //   letter-spacing: 1px;
+    //   margin-top: 3%;
+    //   margin-bottom: 1.2%;
+    // }
+  
+    /*.crud-container{
+      background-color: rgba(0, 0, 0, 0.5);
+      font-family: Poppins;
+      padding: 20px;
+      border-radius: 10px;
+      height: 50px;
+      width: 350px;
+      margin: auto;
+      position: absolute;
+      top: 25%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: white;
+  
+    } */
+  
+  
+    .login-container {
+      background-color: rgba(0, 0, 0, 0.5);
+      font-family: Poppins;
+      padding: 20px;
+      border-radius: 10px;
+      width: 350px;
+      margin: auto;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: white;
+    }
+  
+  
+  
+    .login-container ion-item {
+      --background: transparent;
+      --border-width: 0;
+    }
+  
+    .login-container ion-input {
+      font-family: Poppins;
+      font-weight: 300;
+      border-radius: 20px;
+      padding: 10px;
+    }
+  
+    .login-container ion-label {
+      --background: transparent;
+      font-family: Poppins;
+      font-weight: 400;
+    }
+    div a {
+      font-family: Poppins;
+      font-weight: 400;
+      color: antiquewhite;
+    }
+  
+    .login-container ion-button.login-button {
+      --border-radius: 20px;
+      --background: #fff;
+      --min-width: 100%; 
+      margin-top: 20px; 
+      font-family: Poppins;
+    }
+  
+    
+    
+  
+  
